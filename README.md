@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmendoza-dev/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://jmendozadev.netlify.app/)  
 
-## 💻 Languages & Web 
+## 💻 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) 
@@ -34,14 +34,14 @@ Here are some ideas to get you started:
 ![SASS](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff) 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff) 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)   
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)  
 
-### ⚙️ Frameworks & Tools 
+## ⚙️ Frameworks & Tools 
 
 ![Fetch API](https://img.shields.io/badge/Fetch-FF6F00?logo=javascript&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)  
 
 ## 🗄️ Databases & Architecture  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)  
