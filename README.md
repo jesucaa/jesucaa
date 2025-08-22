@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🌟 About Me    
+### 🌟 About Me    
 - 💻 **Software Engineer** passionate about turning ideas into code. 
 - ✨ Curious mind with a passion for learning.
 - 🚀 Exploring the world of **Web Development**.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🎯 Focused on building user-friendly web applications. 
 - 🌱 Constantly improving my skills and embracing new challenges.  
 
-## 🌎 Connect with Me  
+### 🌎 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmendoza-dev/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://jmendozadev.netlify.app/)  
 
