@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 
 ###  
 ![Fetch API](https://img.shields.io/badge/Fetch-FF6F00?logo=javascript&logoColor=fff)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff)
 
 ---
 
