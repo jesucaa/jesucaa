@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🌟 About Me  
 💻 **Software Engineer** passionate about turning ideas into code.  
 🚀 Exploring the world of **Web Development** and crafting meaningful **UX/UI experiences**.  
 📚 **Lifelong Learner**, always curious, always evolving.
 
-## 🌟 About Me  
 - ✨ Curious mind with a passion for learning.  
 - 🎯 Focused on building user-friendly web applications.  
 - 🌱 Constantly improving my skills and embracing new challenges.  
