@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)   
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)  
 
---- ⚙️ Frameworks & Tools 
+--- 
+
+⚙️ Frameworks & Tools 
 
 ###  
 ![Fetch API](https://img.shields.io/badge/Fetch-FF6F00?logo=javascript&logoColor=fff)
