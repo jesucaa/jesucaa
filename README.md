@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 🚀 Exploring the world of **Web Development** and crafting meaningful **UX/UI experiences**.  
 📚 **Lifelong Learner**, always curious, always evolving.
 
-## 🌎 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmendoza-dev/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://jmendozadev.netlify.app/)  
-
 ## 🌟 About Me  
 - ✨ Curious mind with a passion for learning.  
 - 🎯 Focused on building user-friendly web applications.  
 - 🌱 Constantly improving my skills and embracing new challenges.  
+
+## 🌎 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmendoza-dev/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://jmendozadev.netlify.app/)  
 
 ### 💻 Languages & Web 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)  
