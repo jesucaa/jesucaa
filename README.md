@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Jesús Mendoza 
 
+![Jesús Mendoza — Software Engineer](./github-banner-dark.svg)
+
 <!--
 **jmendozadev/jmendozadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
