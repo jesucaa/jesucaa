@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 
 ## 🗄️ Databases & Architecture  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)  
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=fff)  
-![OOP](https://img.shields.io/badge/OOP-009688?logo=java&logoColor=fff)  
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=fff)
 ![MVC](https://img.shields.io/badge/MVC-FF5722?logo=laravel&logoColor=fff)  
+![OOP](https://img.shields.io/badge/OOP-009688?logo=java&logoColor=fff)  
 
 ## 📊 GitHub Stats  
 ![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmendozadev&show_icons=true&theme=radical)  
