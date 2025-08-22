@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🌟 About Me    
+## 🌟 About Me    
 - 💻 **Software Engineer** passionate about turning ideas into code. 
 - ✨ Curious mind with a passion for learning.
 - 🚀 Exploring the world of **Web Development**.
@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 - 🎯 Focused on building user-friendly web applications. 
 - 🌱 Constantly improving my skills and embracing new challenges.  
 
-### 🌎 Connect with Me  
+## 🌎 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmendoza-dev/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://jmendozadev.netlify.app/)  
 
-### 💻 Languages & Web 
+## 💻 Languages & Web 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
 
-### 🗄️ Databases & Architecture  
+## 🗄️ Databases & Architecture  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)  
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=fff)  
 ![OOP](https://img.shields.io/badge/OOP-009688?logo=java&logoColor=fff)  
