@@ -54,6 +54,10 @@ Here are some ideas to get you started:
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 
+--
+
+![🏆 Achievements](https://github-profile-trophy.vercel.app/?username=jmendozadev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 📊 GitHub Stats  
 ![Jesús' GitHub stats](https://nirzak-streak-stats.vercel.app/?user=jmendozadev&theme=github_dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmendozadev&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
