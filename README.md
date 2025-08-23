@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## 🌎 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/jmendoza-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus mendoza linkendin" height="30" width="40" /></a>
-<a href="https://jmendozadev.netlify.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/267862/portfolio.svg" alt="jesus mendoza portfolio" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_jesucaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesus mendoza ig" height="30" width="40" /></a>
 </p>
 
 ## 💻 Skills
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 [![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
 
-## Learning
+## 📝 Learning
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
