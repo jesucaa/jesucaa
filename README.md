@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - 🚀 Exploring the world of **Web Development**.
 - 🎨 Crafting meaningful **UX/UI experiences**. 
 - 🎯 Focused on building user-friendly web applications. 
-- 🌱 Constantly improving my skills and embracing new challenges.  
+- 🌱 Constantly improving my skills and embracing new challenges.
+
+[![Portfolio](https://img.shields.io/badge/Check%20out-My%20Portfolio-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://jmendozadev.netlify.app/)
 
 ## 🌎 Connect with Me
 <p align="left">
