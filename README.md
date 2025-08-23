@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 --
 
-![🏆 Achievements](https://github-profile-trophy.vercel.app/?username=jmendozadev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![🏆Achievements](https://github-profile-trophy.vercel.app/?username=jmendozadev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📊 GitHub Stats  
 ![Jesús' GitHub stats](https://nirzak-streak-stats.vercel.app/?user=jmendozadev&theme=github_dark&hide_border=false)<br/>
