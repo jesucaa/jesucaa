@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 - 🎯 Focused on building user-friendly web applications. 
 - 🌱 Constantly improving my skills and embracing new challenges.  
 
-## 🌎 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmendoza-dev/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white)](https://jmendozadev.netlify.app/)  
+## 🌎 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/jmendoza-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus mendoza linkendin" height="30" width="40" /></a>
+<a href="https://jmendozadev.netlify.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/267862/portfolio.svg" alt="jesus mendoza portfolio" height="30" width="40" /></a>
+</p>
 
 ## 💻 Skills
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
