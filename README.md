@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🎯 Focused on building user-friendly web applications. 
 - 🌱 Constantly improving my skills and embracing new challenges.
 
-[![Portfolio](https://img.shields.io/badge/Check%20out-My%20Portfolio-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)]([https://jmendozadev.netlify.app/](https://jmendozadev.github.io/mi-portafolio-web/))
+[![Portfolio](https://img.shields.io/badge/Check%20out-My%20Portfolio-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://jmendozadev.github.io/mi-portafolio-web/)
 
 ## 🌎 Connect with Me
 <p align="left">
