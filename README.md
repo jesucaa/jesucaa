@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 - 🎯 Focused on building user-friendly web applications. 
 - 🌱 Constantly improving my skills and embracing new challenges.
 
-[![Portfolio](https://img.shields.io/badge/Check%20out-My%20Portfolio-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://jmendozadev.github.io/mi-portafolio-web/)
+[![Portfolio](https://img.shields.io/badge/Check%20out-My%20Portfolio-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://itsjesusdev.github.io/mi-portafolio-web/)
 
 ## 🌎 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/jmendoza-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus mendoza linkendin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jmendozadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesus mendoza ig" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jesus-mendoza-mendoza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus mendoza linkendin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/its.jesusdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesus mendoza ig" height="30" width="40" /></a>
 </p>
 
 ## 💻 Skills
@@ -51,8 +51,9 @@ Here are some ideas to get you started:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 ## 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=jmendozadev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=itsjesusdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📊 GitHub Stats  
-![Jesús' GitHub stats](https://nirzak-streak-stats.vercel.app/?user=jmendozadev&theme=github_dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmendozadev&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Jesús' GitHub stats](https://github-readme-stats.vercel.app/api?username=itsjesusdev&theme=github_dark&hide_border=false)<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=itsjesusdev&theme=github-dark&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsjesusdev&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
