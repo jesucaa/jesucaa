@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jesús Mendoza 
+# 👋 Hi, I'm Jesús Mendoza 
 
 <!--
 **jmendozadev/jmendozadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 - 🎯 Focused on building user-friendly web applications. 
 - 🌱 Constantly improving my skills and embracing new challenges.
 
-[![Portfolio](https://img.shields.io/badge/Check%20out-My%20Portfolio-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://itsjesusdev.github.io/mi-portafolio-web/)
+[![Portfolio](https://img.shields.io/badge/Check%20out-My%20Portfolio-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://jesucaa.github.io/mi-portafolio-web/)
 
 ## 🌎 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/jesus-mendoza-mendoza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus mendoza linkendin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/its.jesusdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesus mendoza ig" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_jesucaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesus mendoza ig" height="30" width="40" /></a>
 </p>
 
 ## 💻 Skills
