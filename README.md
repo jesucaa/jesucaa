@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 ## 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=itsjesusdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jesucaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📊 GitHub Stats  
-![Jesús' GitHub stats](https://github-readme-stats.vercel.app/api?username=itsjesusdev&theme=github_dark&hide_border=false)<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=itsjesusdev&theme=github-dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsjesusdev&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Jesús' GitHub stats](https://github-readme-stats.vercel.app/api?username=jesucaa&theme=github_dark&hide_border=false)<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=jesucaa&theme=github-dark&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesucaa&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
